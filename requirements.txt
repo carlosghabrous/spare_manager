@@ -1,0 +1,3 @@
+PyQt5==5.15.0
+PyQt5-sip==12.8.0
+-e git+https://:@gitlab.cern.ch:8443/ccs/fgc.git@c7256ec560a3c2e869ed5402a1606325b93afef1#egg=spare_manager&subdirectory=sw/clients/python/spare_manager
